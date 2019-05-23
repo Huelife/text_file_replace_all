@@ -1,3 +1,5 @@
+#text_file_replace_all.py: creates edited file with a swapped word
+
 import re
 
 word_swap = re.compile('story')
