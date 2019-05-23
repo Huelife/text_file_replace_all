@@ -1,3 +1,5 @@
+#got.txt: text example
+
 Game of Thrones is a fantasy drama TV series. It's adapted 
 from A Song of Ice and Fire, a series of fantasy novels by 
 George R. R. Martin. The story is set in Westeros with 
